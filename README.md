@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Selma Memić 👋</h1>
 
-![](https://komarev.com/ghpvc/?username=selma-memic&style=flat-square&color=brightgreen)
 
 <p align="center">
 Final-year <b>Software Engineering</b> student at the University of Mostar.<br/>
