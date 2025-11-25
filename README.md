@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Final-year <b>Software Engineering</b> student at the University of Mostar.<br/>
+Final-year <b>Software Engineerin</b> student at the University of Mostar.<br/>
 I love building with <b>AI/ML</b>, <b>IoT</b>, and solid <b>project management</b> practices.
 </p>
 
