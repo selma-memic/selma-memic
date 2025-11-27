@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Selma Memić 👋</h1>
-
+<h1 align="center">Hi, I'm Selma Memić 👋</h
 
 <p align="center">
 Final-year <b>Software Engineerin</b> student at the University of Mostar.<br/>
