@@ -74,12 +74,10 @@ Imagine Cup 2023 (Health) World Finalist. AI-powered reminders, health tracking,
 ## 🏆 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selma-memic&show_icons=true&hide_border=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=selma-memic&show_icons=true&theme=default&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=selma-memic&layout=compact&theme=default&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selma-memic&layout=compact&langs_count=8&hide_border=true&theme=default" />
-</p>
 
 ---
 
