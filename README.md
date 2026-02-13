@@ -1,15 +1,17 @@
-<h1 align="center">Hi, I'm Selma Memić 👋</h
+<h1 align="center">Hi, I'm Selma Memić 👋</h1>
 
 <p align="center">
-Final-year <b>Software Engineerin</b> student at the University of Mostar.<br/>
+Final-year <b>Software Engineering</b> student at the University of Mostar.<br/>
 I love building with <b>AI/ML</b>, <b>IoT</b>, and solid <b>project management</b> practices.
 </p>
 
 <p align="center">
-  📍 Konjic, Bosnia & Herzegovina · ✉️ <a href="mailto:memic-selma@outlook.com">memic-selma@outlook.com</a>
+  📍 Konjic, Bosnia & Herzegovina · ✉️ 
+  <a href="mailto:memic-selma@outlook.com">memic-selma@outlook.com</a>
 </p>
+
 <h2 align="center">
-  My portfolio <a href="https://selma-memic.github.io/portfolio/">here</a>!💻🎨✨📖🌟
+  My portfolio <a href="https://selma-memic.github.io/portfolio/">here</a>! 💻🎨✨📖🌟
 </h2>
 
 ---
@@ -24,8 +26,28 @@ I love building with <b>AI/ML</b>, <b>IoT</b>, and solid <b>project management</
 
 ## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![TensorFlow] (https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/REST-02569B?logo=fastapi&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F61?logo=aitool&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00BFFF?logo=machinelearning&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![REST](https://img.shields.io/badge/REST-02569B?logo=fastapi&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F61)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00BFFF)
 
 ---
 
@@ -51,29 +73,30 @@ Imagine Cup 2023 (Health) World Finalist. AI-powered reminders, health tracking,
 
 ## 🏆 Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selma-memic&layout=compact&langs_count=8&cache_seconds=1800&v=1" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selma-memic&show_icons=true&hide_border=true&theme=default" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selma-memic&layout=compact&langs_count=8&hide_border=true&theme=default" />
+</p>
 
 ---
 
-## Awards & Achievements 🏆
+## 🏆 Awards & Achievements
 
 **FIT Coding Challenge – 1st Place (Smart Living and Innovations)**  
 Issued by Fakultet informacijskih tehnologija Mostar · Jun 2023  
 
 **Imagine Cup Winner – Health Category (2023 Online Semifinals)**  
 Issued by Microsoft Imagine Cup · Mar 2023  
-[Winner Certificate](https://imaginecup.microsoft.com/en-US/Member/WinnerCertificate?userid=WBYBYcovOZNYS9XLiLsr5Q%253d%253d&compId=j5la%252fgnlAJ9IHhMQYAr0MA%253d%253d&teamId=BTfzeKZeapzo4ebGzUX7dQ%253d%253d)  
 
 **Viral Hackathon 2022 – 3rd Place**  
 Issued by viralerasmus.org · May 2022  
-[Hackathon Report](http://viralerasmus.org/wp-content/uploads/2022/05/Izvestaj_Viral-Hakaton-2022_fin.pdf)
 
 ---
 
 ## 📫 Contact
+
 - LinkedIn: <a href="https://www.linkedin.com/in/selmamemic4/">linkedin.com/in/selmamemic4</a>  
 - Email: <a href="mailto:memic-selma@outlook.com">memic-selma@outlook.com</a>
